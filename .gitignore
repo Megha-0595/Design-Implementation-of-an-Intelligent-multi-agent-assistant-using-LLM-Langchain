@@ -1,0 +1,22 @@
+# Environment & secrets
+.env
+.env.local
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# IDE / Editor
+.vscode/
+.idea/
+
+# Streamlit
+.streamlit/

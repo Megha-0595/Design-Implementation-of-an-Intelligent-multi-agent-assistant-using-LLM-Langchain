@@ -1,0 +1,9 @@
+# 1. Run the Streamlit Web App (Recommended)
+ .\.venv\Scripts\streamlit run app.py
+
+# 2. Or activate the virtual environment first, then run:
+# .\.venv\Scripts\activate
+# streamlit run app.py
+
+# 3. Run the CLI Pipeline (Terminal only):
+# .\.venv\Scripts\python pipeline.py
