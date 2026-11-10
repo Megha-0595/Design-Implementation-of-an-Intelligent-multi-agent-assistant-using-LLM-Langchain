@@ -99,3 +99,4 @@ Or double-click `run_pipeline.bat` on Windows.
 
 ## 📄 License
 MIT License. Open-source and free to modify for educational and research purposes.
+
